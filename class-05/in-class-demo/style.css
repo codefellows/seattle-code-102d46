@@ -1,0 +1,51 @@
+/* selector {
+  property: value;
+} */
+
+body {
+  background-color: #66baba;
+  margin: 100px;
+}
+
+header {
+  background-color: rgba(0, 0, 255, 0.614);
+  border: 5px dashed black;
+  height: 150px;
+}
+
+li {
+  color: gray;
+}
+
+/* Classes are for multiple elements */
+.lower {
+  width: 30%;
+  display: inline-block;
+}
+
+/* IDs are for specific unique elements */
+#hero {
+  /* width: 500px;  */
+  width: 50%;
+  float: left;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+h1 {
+  float: left;
+}
+
