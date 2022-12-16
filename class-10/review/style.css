@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+}
+
+/* p {
+  color: white;
+} */
+
+main p {
+  color: white;
+}
+
+.first-two {
+  color: green;
+}
+
+#important {
+  color: red;
+}
+
+.p {
+  background-color: black;
+}
+
+#h2 {
+  background-color: black;
+}
